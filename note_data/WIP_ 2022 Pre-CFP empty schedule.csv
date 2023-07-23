@@ -1,0 +1,60 @@
+﻿type,Room,date,begin_time,end_time,name,title,host,Discord Handle,HackMD,Slido,影片連結,slide
+Talk,0,9月3日,10:10,10:40,傅群,從開放數據閱讀台灣能源 - 數據探索、模型預測和風險評估,TingYi,TingYi#9967,,https://app.sli.do/event/5g8dZM48PmmBP5C1tU9fNu,,https://github.com/PatrickFu0302/pycon2022_taiwan_energy/blob/main/%E5%BE%9E%E9%96%8B%E6%94%BE%E6%95%B8%E6%93%9A%E9%96%B1%E8%AE%80%E5%8F%B0%E7%81%A3%E8%83%BD%E6%BA%90%20.pdf
+Talk,0,9月3日,10:10,10:40,Andrew Li,Distributing your pandas ETL job using Modin and Ray,TingYi,TingYi#9967,,https://app.sli.do/event/eTKYkMG74iDjguzjGL2ELM,,https://www.slideshare.net/AndrewLi55/distributing-your-pandas-etl-job-using-modin-and-raypdf
+Talk,0,9月3日,10:10,10:40,Tim,Practices of Building Trustworthy Data Pipeline,TingYi,TingYi#9967,,https://app.sli.do/event/8hH219vCQBbpRSLkw6tjUP,,
+Talk,0,9月3日,10:45,11:15,黃泰瑋 (Tai-Wei Huang),Building large scale data pipelines by Apache Airflow,Kevin,Kevin Li#0378,,https://app.sli.do/event/pMDXNVF4SZe7pgNHJ1oC6w,,https://drive.google.com/file/d/17J_4FKu1s26rfpTO6MGmq1Qh5jUrkiJh/view?usp=sharing
+Talk,0,9月3日,10:45,11:15,Max Lai,Python Design Patterns,Kevin,Kevin Li#0378,,https://app.sli.do/event/2PogqXP48VeQQkjYcXhMBT,,https://speakerdeck.com/cclai999/python-design-patterns-at-pycon-apac-2022
+Talk,0,9月3日,11:25,11:55,何信賢,實現超自動化的驗證碼辨識,Kuan,Kuan#1747,,https://app.sli.do/event/vnvojAmCGJ3BuYiqE1viLY,,https://docs.google.com/presentation/d/1WsdQoRojBKlfOrDNppgbCmHK1DFC5gOh/edit#slide=id.p1
+Talk,0,9月3日,11:25,11:55,陳宜昌,AI 認注音：使用huggingface framework建構開源標音系統g2pW,Kuan,Kuan#1747,,https://app.sli.do/event/xiw4ay3xxgREhZmbFQ3Vtz,,https://drive.google.com/file/d/1RO4JP4JmqsZ1bYqDn-ZxAS0k6sU4UZrx/view?usp=sharing
+Talk,0,9月3日,11:25,11:55,蘇羿豪,鄉民如何用Python協作貢獻天文教育,Kuan,Kuan#1747,,https://app.sli.do/event/scznG29gaxtpLx7vzQpiya,,https://hackmd.io/@astrobackhacker/BJ4XYe4jq#/
+Talk,0,9月3日,12:55,13:25,吳啟聖,在IC產業中寫python 是一種什麼樣的體驗？,Kuan,Kuan#1747,,https://app.sli.do/event/pQgRpJmHw4hp3AZ3hhjt9H,,
+Talk,0,9月3日,12:55,13:25,莊鐵鴻,From Data Pipeline to Airflow - the Obstacles in Our Migration,Kuan,Kuan#1747,,https://app.sli.do/event/qBYKnWQknV3LjLUciY4BX1,,
+Talk,0,9月3日,12:55,13:25,Wei Lin,Play Digital Signal Processing with Python (using SigmaDSP),Kuan,Kuan#1747,,https://app.sli.do/event/dQGjkmjd7W2cAb1LEUtFGX,,https://drive.google.com/file/d/1QBlbwnfirm-59eNpEyZnh5BRw17FI5oe/view?usp=sharing
+Talk,0,9月3日,13:30,14:00,姜韋辰,Building Customized Async Web Protocol from AsyncIO (Python): Exploring the low-level APIs Protocol and Transport,Pochun,PoChun#3968,,https://app.sli.do/event/aH6RxX7bYGg8WR3GvM3Q3X,,
+Talk,0,9月3日,13:30,14:00,楊擇中,數據團隊守護神-DQT,Pochun,PoChun#3968,,https://app.sli.do/event/gFHqR4nX2VJNiGfcJBXvg8,,
+Talk,0,9月3日,13:30,14:00,Mars Su,Integrate Schema Registry & Kafka in Python to Build Streaming Processing,Pochun,PoChun#3968,,https://app.sli.do/event/sE3aaBEUsYZ7HiLkrvcrAp,,https://drive.google.com/file/d/1NdBaMqZjVTucV_Z2EY2iFub826hF92ga/view?usp=sharing
+Talk,0,9月3日,14:05,14:35,陳穗碧,醫療影像AI產品落地挑戰與持續優化的歷程分享,昱勳,AndyLee#7859,,https://app.sli.do/event/cW2ZdB9b7zc7bWcikzZxc3,,
+Talk,0,9月3日,14:05,14:35,DailyGold999,Using Python to interpret your genetic testing data,昱勳,AndyLee#7859,,https://app.sli.do/event/3ALyQXW5BkHp1YK11fzLx9,,https://drive.google.com/file/d/1_-6Zb0uJE-8-yN1BhIay8yEpAOSlusZH/view?usp=sharing
+Talk,0,9月3日,14:05,14:35,Pei,Building an Arena for AI Warriors,昱勳,AndyLee#7859,,https://app.sli.do/event/8GNQNQGS5N4w7C8xhN1afw,,
+Talk,0,9月4日,11:15,11:45,Gajendra Deshpande,PRIMM: An effective model for teaching Python,四貓,catcatcatcat#3135,,https://app.sli.do/event/bZjbV4VWUzUzeR6HHKHB8E,,
+Talk,0,9月4日,12:45,13:15,張仲樸、黃奕鳴,AI產品開發維運(MLOps)之迭代歷程分享,Kevin,Kevin Li#0378,,https://app.sli.do/event/dnRPNWieaa4Po8HXUX4tLg,,https://drive.google.com/file/d/1puUky1GHzn3L9Snv_Z3h4BI4Z6q-5szl/view
+Talk,0,9月4日,12:45,13:15,Yung- Chun Lu,Continuous High Volume of Data Exporting From BigQuery,Kevin,Kevin Li#0378,,https://app.sli.do/event/99HovY4yo4krtEvBfDdYr5,,
+Talk,0,9月4日,13:25,13:55,邱文淇,Python在機器學習AI遊戲平台-PAIA的實作與應用,Kuan,Kuan#1747,,https://app.sli.do/event/kW33cdquuaLPCbPhrXU6Zn,,https://bit.ly/3o6ufGY
+Talk,1,9月3日,10:10,10:40,Milo Chen,搭配 Raspberry Pi Pico + Python 提供偏鄉更高CP值的科技教育(Use Raspberry Pi Pico + Python to provide good value on technology education in middle school),Pochun,PoChun#3968,,https://app.sli.do/event/tAUZ1kB7EQJbQpbCvsvTse,,https://www.canva.com/design/DAEyq1KSIoE/tnOz5wAsPUfuf_IEdTcUBw/view?utm_content=DAEyq1KSIoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Talk,1,9月3日,10:45,11:15,Joshua Arvin Lat,Hacking and Securing Machine Learning Systems and Environments,Shirley,Shirley#8048,,https://app.sli.do/event/8YJfRpFFZpeVsK6NVgX24o,,https://speakerdeck.com/arvslat/pycon-apac-2022-hacking-and-securing-machine-learning-environments-and-systems
+Talk,1,9月3日,11:25,11:55,Kir Chou,Type erasure in Python,四貓,catcatcatcat#3135,,https://app.sli.do/event/ntRoFzs6EexnPeqXkVGXWA,,https://github.com/note35/about/blob/dev/public/slides/2022-type_erasure.pdf
+Talk,1,9月3日,12:55,13:25,nikkie,Revisit Python from statements and PEG,四貓,catcatcatcat#3135,,https://app.sli.do/event/9SZY8fXP6EyYUYKY5kCaTQ,,
+Talk,1,9月3日,12:55,13:25,Sammy Wen,REST API request payload validator as a decorator,四貓,catcatcatcat#3135,,https://app.sli.do/event/ez4eKwjekuNrwQbbDmEjL9,,https://drive.google.com/file/d/1WMPMgOp6mpLTZf-U_abGfDRLCTCc-ois/view?usp=sharing
+Talk,1,9月3日,12:55,13:25,Sebastiaan Zeeff,Demystifying Python's Internals: Diving into CPython by implementing a pipe operator,四貓,catcatcatcat#3135,,https://app.sli.do/event/4u3ARAHdFep9SSeVgb6Smr,,
+Talk,1,9月3日,13:30,14:00,John,TasteGram: An Image Assessment App Built with TensorFlow & Python,坤賢,坤賢#4883,,https://app.sli.do/event/3ovdbifBx8hXaoWD8EgcxX,,https://bit.ly/pycon22
+Talk,1,9月3日,13:30,14:00,nikkie,Implement Shion(詩音) from SingaBitofHarmony(讓我聽見愛的歌聲) with Python,坤賢,坤賢#4883,,https://app.sli.do/event/9SZY8fXP6EyYUYKY5kCaTQ,,
+Talk,1,9月3日,14:05,14:35,Hsu-Kai Cheng,"Python under a microscope: Scanning Tunneling Microscopy, image processing, feature recognition and extraction of statistics",JC,jiachengx#0820,,https://app.sli.do/event/mkwQmSfgPv8JCsh8Jny9xm,,
+Talk,1,9月3日,14:05,14:35,Ian Panganiban,From Field to the Cloud: A Geo Person's Python Toolchain,JC,jiachengx#0820,,https://app.sli.do/event/9qy5UM2SXJx9q3ZnFWhK3Z,,
+Talk,1,9月4日,10:35,11:05,"蘇嘉冠 (Jia-Kuan, Su)",Make your photos better by image denoising,Pochun,PoChun#3968,,https://app.sli.do/event/1BdbMfQK1qZCe1HRbbWyd4,,
+Talk,1,9月4日,10:35,11:05,Doni Rubiagatra,Data Oriented Programming with Python,Pochun,PoChun#3968,,https://app.sli.do/event/u2UG4gZau2FQGhW1qmrfNj,,https://docs.google.com/presentation/d/1HFF23gMrgV_prjwPxQ20K8_-m-fkmKcS0y-YLJ0YhTg/edit?usp=sharing
+Talk,1,9月4日,11:15,11:45,David Mikolas,Molecular Dynamics is no longer scary with Python! Learn to do it yourself with FIRE and LAMMPS.,Derick,derick0823#3869,,https://app.sli.do/event/vfJvpCnMQH1ymLxcfcgbxZ,,
+Talk,1,9月4日,13:25,13:55,Reuven M. Lerner,When is an exception not an exception? Using warnings in Python,Derick,derick0823#3869,,https://app.sli.do/event/4kNcBDETXQmm6Erje8Hjyp,,
+Talk,1,9月4日,13:25,13:55,Reuven M. Lerner,Function dissection lab -- learn how functions work by examining their innards,Derick,derick0823#3869,,https://app.sli.do/event/kS1oHFhANeSMmXLNnHfbmM,,
+Talk,2,9月3日,10:10,10:40,Renaldi Gondosubroto,Enhancing Documentations on Sphinx with the Power of Extensions,JC,jiachengx#0820,,https://app.sli.do/event/2odhKfnXyV33Y4yCPDsZdb,,
+Talk,2,9月3日,10:45,11:15,Saransh Chopra,Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub,JC,jiachengx#0820,,https://app.sli.do/event/9mocDRmn6yeMAqNbQTxXMo,,https://docs.google.com/presentation/d/1Iji1klGczzQ4DxN6-E-zfEN5oPMMs2LZtD482-plGAM/edit?usp=sharing
+Talk,2,9月3日,11:25,11:55,Claire Chung,From snippet to project – building an analysis and visualization tool for an unusual data type,Benson,Tomatoprinx#1362,,https://app.sli.do/event/1YKEwphWwa4zHdBSvAH4Bj,,
+Talk,2,9月3日,12:55,13:25,Shung-Hsi Yu,Finding the Perfect Shift Schedule,坤賢,坤賢#4883,,https://app.sli.do/event/ek2NTzkytzYkU1XVkpvdzk,,
+Talk,2,9月3日,12:55,13:25,Yuichiro Tachibana,Real-time browser-ready computer vision apps with Streamlit,坤賢,坤賢#4883,,https://app.sli.do/event/peUkfwVcPamsp56SBtkm8W,,
+Talk,2,9月3日,13:30,14:00,PeterWolf,"Fantastic NLU: Loki, SymPy and the Solver to Math Word Problems",Kevin,Kevin Li#0378,,https://app.sli.do/event/fLCSJrx9LtUJq631UaNLuQ,,
+Talk,2,9月3日,13:30,14:00,Srivatsa Kundurthy,Python for the Unsolvable: Machine Learning Applications in Chaos Theory,Kevin,Kevin Li#0378,,https://app.sli.do/event/89eWi3M339pEYGWaAtcwac,,
+Talk,2,9月3日,14:05,14:35,Anand S,Exploring Network Clusters in Python,Benson,Tomatoprinx#1362,,https://app.sli.do/event/dWbck3ZNyGcK68GdWN8GZi,,
+Talk,2,9月3日,14:05,14:35,Ko Ko,"Run Bokeh in back-end, draw real-time charts to front-end, and make data scientists happy",Benson,Tomatoprinx#1362,,https://app.sli.do/event/sGXsgsexVZRoXz7BdhcbaZ,,
+Talk,2,9月4日,10:35,11:05,Yan Orestes,Writing secure code in Python,Shirley,Shirley#8048,,https://app.sli.do/event/pahqjwBL6eQNto2TDS2qog,,https://speakerdeck.com/yyyyyyyan/pycon-apac-2022-writing-secure-code-in-python
+Talk,2,9月4日,10:35,11:05,Yasushi Itoh,A Cross-Platform Pure Python Declarative UI Framework,Shirley,Shirley#8048,,https://app.sli.do/event/6hwvUTKaQq92f3iAXhUbJf,,
+Talk,2,9月4日,11:15,11:45,Shreya Khurana,"Big Models, Small Pitfalls: Our random walk towards building seq2seq models",Kuan,Kuan#1747,,https://app.sli.do/event/jfzDeYQ9auhfLV1U9uRRBN,,
+Talk,2,9月4日,14:05,14:35,Taihsiang Ho (tai271828),The Emergence of Community and How to Initiate It,Tumi,tumi#9470,,https://app.sli.do/event/hVZmGa9aoAE4dTSpjVucmj,,
+Talk,2,9月4日,14:05,14:35,Taihsiang Ho (tai271828),"Python in Linux Distribution, Debian, and Ubuntu",Tumi,tumi#9470,,https://app.sli.do/event/oP1iWzrntFL5VWNwmZsyT6,,
+Tutorial,3,9月3日,10:10,11:40,Eason Chen (陳怡升),90 分鐘帶你用 Brownie 上架 NFT,Tumi,tumi#9470,,https://app.sli.do/event/bxN7J26qBedGW6q2AJYYxX,,
+Tutorial,3,9月3日,13:05,14:35,Kevin Lloyd Bernal,Effective ways to maintain and scale-up your Web Crawling project using Scrapy and it's ecosystem of tools.,Derick,derick0823#3869,,https://app.sli.do/event/6DJ5vhaAUaAP3as8m7vcnw,,
+Tutorial,3,9月4日,10:35,12:05,張仲樸,Pika Pika！RabbitMQ 簡介 x Python 實作,Benson,Tomatoprinx#1362,,https://app.sli.do/event/eAnaP1YY5MPHZZaqfYscHG,,
+Tutorial,3,9月4日,13:05,14:35,Gajendra Deshpande,"Three Musketeers: Sherlock Holmes, Mathematics and Python",昱勳,AndyLee#7859,,https://app.sli.do/event/jbcEBdma6RQvA9TNCMSb3Y,,
+Keynote,Stage,9月3日,09:00,10:00,Dustin Ingram,Protecting the Collective Good,Jaihua,jaihuayen#3356,,https://app.sli.do/event/qhRpkD1Pz1uJsdjXtMiRgr,,
+Keynote,Stage,9月3日,14:40,15:40,Iqbal Abdullah,"Changing the world, one PyCon at a time (Ver. 2022)",Shirley,Shirley#8048,,https://app.sli.do/event/6hfYAXe1XHYNSvg8DaZBgP,,
+Keynote,Stage,9月4日,09:30,10:30,李政德教授,圖機器學習及其應用,Teila,Teila Ting#1212,,https://app.sli.do/event/uJE4k1vgX5QBayww7UQtey,,
+Keynote,Stage,9月4日,14:40,15:40,Victor Stinner,Introducing Incompatible Changes in Python,yider,yider#4935,,,,
+Keynote,Stage,9月4日,16:45,17:45,Kushal Das,Failure,subird,subird#7943,,,,

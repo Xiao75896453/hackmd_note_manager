@@ -14,25 +14,28 @@ Frontend of PyCon TW official website.
 
 1. Clone this repository.
 
-2. Make folder log.
+2. Make folder ```log``` and ```output```.
 
-3. Make file .env and add Environment Variables to configure this project:
-    TEAM_PATH= pycontw
-    TOKEN= {{your hackmd token}}
-    HACKMD_API_URL = https://api.hackmd.io/v1/
-
-4. Install dependencies:
-
-    ```bash
-    poetry install
+3. Make file ```.env``` and add Environment Variables to configure this project:
     ```
+    TEAM_PATH=pycontw
+    TOKEN={{your hackmd token}}
+    HACKMD_API_URL=https://api.hackmd.io/v1/
+    ```
+4. Install poetry
 
 5. Enter to env
 
     ```bash
     poetry shell
     ```
-6. Execute 
+
+6. Install dependencies:
+
+    ```bash
+    poetry install
+    ```
+7. Execute 
 
     ```bash
     python app.py
